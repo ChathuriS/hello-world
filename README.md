@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-just another repository
+Hi. It's a great day.. Awesome
